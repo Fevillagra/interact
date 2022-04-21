@@ -2,52 +2,52 @@
 const comidas = [
     {
         id:1,
-        name : "Ceviche",
-        img : './images/ceviche.jpg'
+        name : "Asado",
+        img : './images/asado.jpg'
     },
     {
         id:2,
-        name : "Arroz con Pato",
-        img : './images/arroz-con-pato.jpg'
+        name : "Empanadas",
+        img : './images/empanadas.jpg'
     },
     {
         id:3,
-        name : "Causa Limeña",
-        img : './images/causa-limena.jpg'
+        name : "Gambas al ajillo",
+        img : './images/gambas-al-ajillo.jpg'
     },
     {
         id:4,
-        name : "Lomo Saltado",
-        img : './images/lomo-saltado.jpg'
+        name : "Pizza",
+        img : './images/pizza.jpg'
     },
     {
         id:5,
-        name : "Papa a la Huancaina",
-        img : './images/papa-a-la-huancaina.jpg'
+        name : "Pollo frito",
+        img : './images/pollo-frito.jpg'
     },
     {
         id:6,
-        name : "Parihuela",
-        img : './images/parihuela-comida.jpg'
+        name : "Ramen",
+        img : './images/ramen.jpg'
     },
     {
         id:7,
-        name : "Aji de Gallina",
-        img : './images/aji-de-gallina.jpg'
+        name : "Ravioles",
+        img : './images/ravioles.jpg'
     },
     {
         id:8,
-        name : "Rocoto Relleno",
-        img : './images/rocoto-relleno.jpg'
+        name : "Sushi",
+        img : './images/sushi.jpg'
     },
     {
         id:9,
-        name : "Tallarines Verdes",
-        img : './images/tallarines-verdes.jpg'
+        name : "Ñoquis",
+        img : './images/ñoquis.jpg'
     },
 ];
 
-const contenedorComidas = document.querySelector('.contenedor-comidas');
+const contenedorComidas = document.querySelector('.conteiner-comidas');
 const listadoFavoritos = document.querySelector('.listado-favoritos');
 const comidasFavoritas = [];
 

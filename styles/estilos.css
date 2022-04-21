@@ -13,7 +13,7 @@ img {
     width: 100%;
 }
 
-.contenedor{
+.conteiner{
     margin: 0 auto;
     max-width: 900px;
 }
@@ -27,7 +27,7 @@ img {
 }
 
 
-.contenedor-comidas {
+.conteiner-comidas {
     margin-top: 1rem;
     display: grid;
     gap: 1rem;
